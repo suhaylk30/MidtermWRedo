@@ -12,6 +12,20 @@
     padding-left: 50px;
 
 }
+#menu {
+    width: 700px;
+    text-align: right;
+    padding-right: 50px;
+}
+.inLine {
+    display: inline;
+}
+a {
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
 .centerPage {
     margin-left: auto;
     margin-right: auto;
