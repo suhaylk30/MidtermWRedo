@@ -21,11 +21,27 @@
     height: 360px;
     margin-bottom: 15px;
 }
+#picOne {
+    width: 320px;
+    text-align: left;
+}
+#picTwo {
+    width: 320px;
+    text-align: right;
+}
+#kinds {
+    width: 320px;
+    text-align: center;
+}
 #banner {
     margin-top: 20px;
     background-color: black;
     width: 960px;
     opacity: 0.8;
+}
+#upperFoot {
+    height: 160px;
+    line-height: 80px;
 }
 #banner h1 {
     color: antiquewhite;
