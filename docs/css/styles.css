@@ -17,14 +17,22 @@
     height: 135px;
     padding-left: 50px;
 }
+#logoTwo {
+    width: 160px;
+    height: 135px;
+}
 #menu {
     width: 700px;
     text-align: right;
     padding-right: 50px;
 }
-#menuTwo {
-    text-align: left;
-    padding-left: 20px;
+#paragraph {
+    width: 320px;
+}
+#borderTwo {
+    border: 5px black solid;
+    width: 320px;
+    padding: 7px;
 }
 #mainFrame {
     background-image: url("../images/baseballfield.png");
@@ -65,6 +73,9 @@
 }
 a {
     text-decoration: none;
+}
+.padLeft {
+    margin-left: 0;
 }
 a:hover{
     text-decoration: underline;
